@@ -1,4 +1,3 @@
 # wifi-dump
-Automatização de coleta de senhas de wifi salvas em python
-Ferramenta completamente interativa 
+Automatização de coleta de senhas de wifi salvas em python com uma Ferramenta completamente interativa. 
 Faça um bom uso...
